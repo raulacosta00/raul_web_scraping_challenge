@@ -5,30 +5,6 @@
    "execution_count": null,
    "metadata": {},
    "outputs": [],
-   "source": [
-    "# Dependencies\n",
-    "from splinter import Browser\n",
-    "from webdriver_manager.chrome import ChromeDriverManager\n",
-    "from bs4 import BeautifulSoup\n",
-    "import pandas as pd\n",
-    "import time\n",
-    "import requests\n"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "metadata": {},
-   "outputs": [],
-   "source": [
-    "!which chromebrowser\n"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "metadata": {},
-   "outputs": [],
    "source": []
   }
  ],
